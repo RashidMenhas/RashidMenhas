@@ -1,4 +1,4 @@
-![MasterHead](https://image.shutterstock.com/image-vector/programmer-work-concept-banner-software-260nw-1641315988.jpg)
+![MasterHead](./images/Im%20Rashid.gif)
 <h1 align="center">Hi 👋, I'm Rashid Menhas</h1>
 <h3 align="center">Learning Full Stack Web Development</h3>
 
