@@ -1,4 +1,5 @@
-![MasterHead](./images/Im%20Rashid.gif)
+<img align="center" src="./images/Im-Rashid.gif" alt="coding image" />
+
 <h1 align="center">Hi 👋, I'm Rashid Menhas</h1>
 <h3 align="center">Learning Full Stack Web Development</h3>
 
