@@ -1,18 +1,14 @@
 <img align="center" src="./images/Im-Rashid.gif" alt="coding image" />
 
 <h1 align="center">Hi 👋, I'm Rashid Menhas</h1>
-<h3 align="center">Learning Full Stack Web Development</h3>
+<h3 align="center">Learning Full-Stack Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidmenhas&label=Profile%20views&color=0e75b6&style=flat" alt="rashidmenhas" /> </p>
 
 
-- 🌱 I’m currently learning **HTML| CSS | JS | React | Ruby | RoR**
+- 🌱 I’m currently learning **HTML| CSS | JavaScript | React | Ruby | Rails**
 
-- 👯 I’m looking to collaborate on **upcoming project**
-
-- 🤝 I’m looking for help with **javascript**
-
-- 💬 Ask me about **c++ , java , android.**
+- 💬 Ask me about **C++ , Java , Android.**
 
 - 📫 How to reach me **rashidmenhas10@gmail.com**
 
