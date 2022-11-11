@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML| CSS | JavaScript | React | Ruby | Rails**
 
-- 💬 Ask me about **C++ , Java , Android.**
+- 💬 Ask me about **C++ , Java , JavaScript.**
 
 - 📫 How to reach me **rashidmenhas10@gmail.com**
 
